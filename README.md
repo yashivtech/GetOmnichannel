@@ -28,7 +28,7 @@ GetOmnichannel researches the software that support, sales and CX teams use to t
 | Omnichannel platforms | [Best Omnichannel Communication Platforms](https://getomnichannel.com/omnichannel-platforms/best-omnichannel-communication-platforms/) |
 | Call center software | [Best Call Center Software](https://getomnichannel.com/call-center-software/best-call-center-software/) |
 | SMS & messaging | [Best SMS & Messaging Software](https://getomnichannel.com/sms-messaging-tools/best-sms-messaging-software/) |
-| Video conferencing | [Best Video Conferencing Software](https://getomnichannel.com/video-conferencing/getomnichannel-best-video-conferencing/) |
+| Video conferencing | [Best Video Conferencing Software](https://getomnichannel.com/video-conferencing/best-video-conferencing-software/) |
 | Email marketing | [Best Email Marketing Software](https://getomnichannel.com/email-marketing/best-email-marketing-software/) |
 
 Comparing two specific tools? Browse all [omnichannel software comparisons](https://getomnichannel.com/compare-omnichannel-software/).
