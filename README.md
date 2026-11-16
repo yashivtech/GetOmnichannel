@@ -33,6 +33,8 @@ GetOmnichannel researches the software that support, sales and CX teams use to t
 
 Comparing two specific tools? Browse all [omnichannel software comparisons](https://getomnichannel.com/compare-omnichannel-software/).
 
+Want the raw numbers? The open [CX software pricing dataset](https://github.com/yashivtech/cx-software-pricing-2026) has live chat, helpdesk, VoIP and SMS pricing as CSV files.
+
 ---
 
 ## How does GetOmnichannel review software?
